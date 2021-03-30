@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Anoa 6X6 Mortar",
+    "type": "Panser",
+    "equipment": "Mortar 81 mm",
+    "urlToImage": "https://pindad.com/uploads/images/product/full/SampingDepanSized.jpg"
+  },
+  {
+    "name": "Anoa 6X6 Command",
+    "type": "Panser",
+    "equipment": "Thermal Vision",
+    "urlToImage": "https://pindad.com/uploads/images/product/full/Anoa_Commander1.jpg"
+  },
+  {
+    "name": "Komodo 4X4 Missile Launcher",
+    "type": "SUV",
+    "equipment": "Mistral Rudal",
+    "urlToImage": "https://pindad.com/uploads/images/product/full/Komodo_Arhanud_Web_resize_1.jpg"
+  },
+  {
+    "name": "Harimau Medium Tank",
+    "type": "Tank",
+    "equipment": "Turret 105 mm",
+    "urlToImage": "https://pindad.com/uploads/images/product/full/Harimau_Medium_Tank_Web.jpg"
+  },
+  {
+  "name": "Komodo 4X4 Battering RAM",
+  "type": "SUV",
+  "equipment": "Special Ramming Bumper",
+  "urlToImage": "https://pindad.com/uploads/images/product/full/Komodo.jpg"
+  },
+  {
+    "name": "Anoa 6X6 Amphibious",
+    "type": "Panser",
+    "equipment": "Water Propeller",
+    "urlToImage": "https://pindad.com/uploads/images/product/full/AnoaAmphibious1.jpg"
+  },
+  {
+    "name": "Anoa 6X6 Recovery",
+    "type": "Panser",
+    "equipment": "Boom Crane",
+    "urlToImage": "https://pindad.com/uploads/images/product/full/HadapKanan1Sized.jpg"
+  },
+  {
+    "name": "Anoa 6X6 APC",
+    "type": "Panser",
+    "equipment": "Smoke Grenade Dischargers",
+    "urlToImage": "https://pindad.com/uploads/images/product/full/DepanKananSized.jpg"
+  },
+  {
+    "name": "Badak 6X6",
+    "type": "Tank",
+    "equipment": "Turet 90 mm",
+    "urlToImage": "https://pindad.com/uploads/images/product/full/Badak.jpg"
+  },
+  {
+    "name": "Komodo 4X4 Recon",
+    "type": "SUV",
+    "equipment": "Thermal Vision",
+    "urlToImage": "https://pindad.com/uploads/images/product/full/Komodo_Recon_Fit.jpg"
+  }
+]
